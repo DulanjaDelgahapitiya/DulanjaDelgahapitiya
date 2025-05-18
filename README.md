@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DulanjaDelgahapitiya
+- 👋 Hi, I’m @DulanjaRathnayake
 - 👀 I’m interested in Data Science and a working professional, I have exeperince in E- Commerce
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Software Development, Data Analytics, Business Inteligence.
